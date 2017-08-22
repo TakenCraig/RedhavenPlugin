@@ -1,0 +1,5 @@
+name: RedhavenPlugin
+version: 0.1.0
+author: TakenCraig
+main: io.mymc.redhavensurvival.DeathPosition
+description: Redhaven server plugin
